@@ -1,0 +1,3 @@
+Today is: Monday
+
+This month is: April
