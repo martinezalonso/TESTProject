@@ -1,3 +1,8 @@
 Left
 
 Right
+
+Up 
+
+Down
+
